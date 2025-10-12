@@ -25,7 +25,7 @@ ydl_opts = {
     "skip_download": True,
     "nocheckcertificate": True,
     "format": "bestvideo+bestaudio/best",
-    "proxy": "https://siawaseok-inv.sytes.net"
+    "proxy": "http://ytproxy-siawaseok.duckdns.org:3007"
 }
 
 # キャッシュ: { video_id: (timestamp, data, duration) }
